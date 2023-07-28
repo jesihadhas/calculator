@@ -8,7 +8,7 @@ print("press 2 for substraction")
 print("press 3 for multiplication")
 print("press 4 for division")
 
-operator=int(input("enter arithmetic operator:"))
+operator=int(input("Enter the arithmetic operator:"))
 
 if operator==1:
     print(("Answer="),num1+num2)
